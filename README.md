@@ -1,2 +1,2 @@
-# dropdown-menu
-A javascript dropdown menu module.
+# Template
+A github template for webpack, eslint and prettier.
